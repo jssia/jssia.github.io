@@ -11,9 +11,5 @@ page_sections:
   media:
     image: ''
     alt_text: ''
-- template: simple-header
-  block: header-3
-  logo: ''
-published: false
 
 ---
